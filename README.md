@@ -25,4 +25,4 @@ I'm a Computer Science student at the University of Ottawa
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arohao&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahmadsbooh&label=Profile%20Views&color=6&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arohao&label=Profile%20Views&color=6&icon=1&pretty=false)](https://visitcount.itsvg.in)
