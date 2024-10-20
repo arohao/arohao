@@ -6,7 +6,7 @@ I'm a Computer Science student at the University of Ottawa
 
 - 🌱 I’m currently learning **REACT**, **FLASK**, and I'm always looking to learn new things!
 
-- 🤝 I’m looking for **Summer 2024 internship opportunities**
+- 🤝 I’m looking for **FALL 2025 internship opportunities**
 
 - 👨‍💻 All of my projects are showcased on [my website](https://arohaupreti.com/)
 
