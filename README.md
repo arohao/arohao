@@ -1,4 +1,4 @@
-# Hey... I'm @arohao 👋
+# Hi 👋
 
 I'm a Computer Science student at the University of Ottawa
 
