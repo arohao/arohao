@@ -1,4 +1,4 @@
-# Hi 👋
+# Hey! 👋
 
 I'm a Computer Science student at the University of Ottawa
 
