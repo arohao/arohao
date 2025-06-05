@@ -8,7 +8,7 @@ I'm a Computer Science student at the University of Ottawa
 
 - 🤝 I’m looking for **FALL 2025 internship opportunities**
 
-- 👨‍💻 All of my projects are showcased on [my website](https://arohaupreti.com/)
+- 👨‍💻 All of my projects are showcased on [my website](https://www.arohaupreti.com/)
 
 - 💬 Ask me about anything related to tech! I'd love to chat
 
